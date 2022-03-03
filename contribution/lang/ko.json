@@ -5334,4 +5334,10 @@
  	 	 	"eng": "Admin"
  	 	}
  	}
+ "dungeonComment"{
+  "name": {
+   "trans": "에너지 무기로 방패에 120% 피해를 주었습니다.",
+   "eng": "Energy weapon dealt 120% damage to shield"
+  }
+ }
 }
