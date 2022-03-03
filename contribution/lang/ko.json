@@ -636,7 +636,7 @@
  	"tier": {
  	 	"trash": {
  	 	 	"name": {
- 	 	 	 	"trans": "저급",
+ 	 	 	 	"trans": "하급",
  	 	 	 	"eng": "trash"
  	 	 	}
  	 	},
@@ -754,7 +754,7 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 진통제",
+ 	 	 	 	"trans": "[의료] 진통제 (501 회복)",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
@@ -764,7 +764,7 @@
  	 	},
  	 	"healing2": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 조잡한 나노 수리 로봇",
+ 	 	 	 	"trans": "[의료] 조잡한 나노 수리 로봇(1201 회복)",
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
@@ -774,7 +774,7 @@
  	 	},
  	 	"healing3": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 조잡한 나노 의료 로봇",
+ 	 	 	 	"trans": "[의료] 조잡한 나노 의료 로봇(6001 회복)",
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -784,7 +784,7 @@
  	 	},
  	 	"healing4": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 나노 의료 로봇",
+ 	 	 	 	"trans": "[의료] 나노 의료 로봇 (12001 회복)",
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -794,7 +794,7 @@
  	 	},
  	 	"healing5": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 군용 나노 의료 로봇",
+ 	 	 	 	"trans": "[의료] 군용 나노 의료 로봇 (26001 회복)",
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -804,7 +804,7 @@
  	 	},
  	 	"healing6": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 개량된 나노 의료 로봇",
+ 	 	 	 	"trans": "[의료] 개량된 나노 의료 로봇 (54001 회복)",
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -814,7 +814,7 @@
  	 	},
  	 	"healing7": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 특제 나노 의료 로봇",
+ 	 	 	 	"trans": "[의료] 특제 나노 의료 로봇(110001 회복)",
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -824,7 +824,7 @@
  	 	},
  	 	"healing8": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 진귀한 나노 의료 로봇",
+ 	 	 	 	"trans": "[의료] 진귀한 나노 의료 로봇(240001 회복)",
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -834,7 +834,7 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 진통 스프레이",
+ 	 	 	 	"trans": "[의료] 진통 스프레이(광역 301 회복)",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
@@ -844,7 +844,7 @@
  	 	},
  	 	"healingArea2": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 조잡한 수리 드론",
+ 	 	 	 	"trans": "[의료] 조잡한 수리 드론(광역 901 회복)",
  	 	 	 	"eng": "Degraded Repair drone"
  	 	 	},
  	 	 	"description": {
@@ -854,7 +854,7 @@
  	 	},
  	 	"healingArea3": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료]  조잡한 나노 의료 드론",
+ 	 	 	 	"trans": "[의료]  조잡한 나노 의료 드론(광역 4001 회복)",
  	 	 	 	"eng": "Degraded nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -864,7 +864,7 @@
  	 	},
  	 	"healingArea4": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 나노 의료 드론",
+ 	 	 	 	"trans": "[의료] 나노 의료 드론(광역 10001 회복)",
  	 	 	 	"eng": "Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -874,7 +874,7 @@
  	 	},
  	 	"healingArea5": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 군용 의료 드론",
+ 	 	 	 	"trans": "[의료] 군용 의료 드론(광역 20001 회복)",
  	 	 	 	"eng": "Military Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -884,7 +884,7 @@
  	 	},
  	 	"healingArea6": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 개량된 나노 의료 드론",
+ 	 	 	 	"trans": "[의료] 개량된 나노 의료 드론(광역 40001 회복)",
  	 	 	 	"eng": "Advance Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -894,7 +894,7 @@
  	 	},
  	 	"healingArea7": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 특제 나노 의료 드론",
+ 	 	 	 	"trans": "[의료] 특제 나노 의료 드론(광역 80001 회복)",
  	 	 	 	"eng": "High Quality Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -904,7 +904,7 @@
  	 	},
  	 	"healingArea8": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료]  진귀한 나노 의료 드론",
+ 	 	 	 	"trans": "[의료]  진귀한 나노 의료 드론(광역 160001 회복)",
  	 	 	 	"eng": "Rare Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -944,7 +944,7 @@
  	 	},
  	 	"afkAcceleration": {
  	 	 	"name": {
- 	 	 	 	"trans": "[버프] 시냅스 가속 송신기",
+ 	 	 	 	"trans": "[버프] 시냅스 가속 송신기(5%)",
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
@@ -954,7 +954,7 @@
  	 	},
  	 	"afkAcceleration2": {
  	 	 	"name": {
- 	 	 	 	"trans": "[버프] 희귀 시냅스 가속 송신기",
+ 	 	 	 	"trans": "[버프] 희귀 시냅스 가속 송신기(40%)",
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
@@ -964,7 +964,7 @@
  	 	},
  	 	"expMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "[버프] 전두엽 피질 최적화 송신기",
+ 	 	 	 	"trans": "[버프] 전두엽 피질 최적화 송신기(180%)",
  	 	 	 	"eng": "Frontal Cortex Optimization Transmitter"
  	 	 	},
  	 	 	"description": {
@@ -974,7 +974,7 @@
  	 	},
  	 	"btcMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "[버프] 거래 취약점 송신기",
+ 	 	 	 	"trans": "[버프] 거래 취약점 송신기(40%)",
  	 	 	 	"eng": "Transaction Exploit Transmitter"
  	 	 	},
  	 	 	"description": {
@@ -997,7 +997,7 @@
  	 	},
  	 	"ammo1": {
  	 	 	"name": {
- 	 	 	 	"trans": "[탄약] 에너지 탄환",
+ 	 	 	 	"trans": "[탄약] 에너지 탄환(특수 무기)",
  	 	 	 	"eng": "Energy Cell"
  	 	 	},
  	 	 	"description": {
@@ -1007,7 +1007,7 @@
  	 	},
  	 	"ammo2": {
  	 	 	"name": {
- 	 	 	 	"trans": "[탄약] 반물질 탄환",
+ 	 	 	 	"trans": "[탄약] 반물질 탄환(파괴 무기)",
  	 	 	 	"eng": "Anti Matter Charge"
  	 	 	},
  	 	 	"description": {
@@ -1075,7 +1075,7 @@
  	 	},
  	 	"lootBox2": {
  	 	 	"name": {
- 	 	 	 	"trans": "잠긴 희귀 상자",
+ 	 	 	 	"trans": "희귀한 잠긴 상자",
  	 	 	 	"eng": "locked rare container"
  	 	 	},
  	 	 	"description": {
@@ -1085,7 +1085,7 @@
  	 	},
  	 	"lootBox3": {
  	 	 	"name": {
- 	 	 	 	"trans": "잠긴 전설 상자",
+ 	 	 	 	"trans": "전설의 잠긴 상자",
  	 	 	 	"eng": "locked legendary container"
  	 	 	},
  	 	 	"description": {
@@ -1185,7 +1185,7 @@
  	 	},
  	 	"backpack1": {
  	 	 	"name": {
- 	 	 	 	"trans": "낡은 주머니",
+ 	 	 	 	"trans": "낡은 주머니(용량+4)",
  	 	 	 	"eng": "Old Pouch"
  	 	 	},
  	 	 	"description": {
@@ -1195,7 +1195,7 @@
  	 	},
  	 	"backpack2": {
  	 	 	"name": {
- 	 	 	 	"trans": "보조 가방",
+ 	 	 	 	"trans": "보조 가방(용량+8)",
  	 	 	 	"eng": "Fanny Pack"
  	 	 	},
  	 	 	"description": {
@@ -1205,7 +1205,7 @@
  	 	},
  	 	"backpack3": {
  	 	 	"name": {
- 	 	 	 	"trans": "모험가의 배낭",
+ 	 	 	 	"trans": "모험가의 배낭(용량+16)",
  	 	 	 	"eng": "Explorer's Backpack"
  	 	 	},
  	 	 	"description": {
@@ -1215,7 +1215,7 @@
  	 	},
  	 	"backpack4": {
  	 	 	"name": {
- 	 	 	 	"trans": "직원 서류 가방",
+ 	 	 	 	"trans": "직원 서류 가방(용량+32)",
  	 	 	 	"eng": "Employee Office Case"
  	 	 	},
  	 	 	"description": {
@@ -1225,7 +1225,7 @@
  	 	},
  	 	"backpack5": {
  	 	 	"name": {
- 	 	 	 	"trans": "자동 저장 장치",
+ 	 	 	 	"trans": "자동 저장 장치(용량+64)",
  	 	 	 	"eng": "Autonomous Storage Unit"
  	 	 	},
  	 	 	"description": {
@@ -1235,7 +1235,7 @@
  	 	},
  	 	"healing9": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 전설 나노 의료 로봇",
+ 	 	 	 	"trans": "[의료] 전설 나노 의료 로봇(480001 회복)",
  	 	 	 	"eng": "Legendary Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -1245,7 +1245,7 @@
  	 	},
  	 	"healing10": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 에픽 나노 의료 로봇",
+ 	 	 	 	"trans": "[의료] 에픽 나노 의료 로봇(1000001 회복)",
  	 	 	 	"eng": "Epic Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -1255,7 +1255,7 @@
  	 	},
  	 	"healingArea9": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 전설 나노 의료 드론",
+ 	 	 	 	"trans": "[의료] 전설 나노 의료 드론(광역 320001 회복)",
  	 	 	 	"eng": "Legendary Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -1265,7 +1265,7 @@
  	 	},
  	 	"healingArea10": {
  	 	 	"name": {
- 	 	 	 	"trans": "[의료] 에픽 나노 의료 드론",
+ 	 	 	 	"trans": "[의료] 에픽 나노 의료 드론 (광역 640001 회복) ",
  	 	 	 	"eng": "Epic Nano medic drone"
  	 	 	},
  	 	 	"description": {
